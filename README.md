@@ -5,6 +5,7 @@ Un juego muy divertido, para jugar en compañia de un amigo.
 ## INTEGRANTES: 
 
 Quispe Velasquez David Marcelo
+
 ID: #91276766
 
 
